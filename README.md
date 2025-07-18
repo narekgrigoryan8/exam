@@ -29,9 +29,3 @@ A Node.js + Express.js RESTful API for managing users, books, and rentals in a b
 
 ---
 
-## 📦 Installation
-
-```bash
-git clone https://github.com/yourusername/book-rental-api.git
-cd book-rental-api
-npm install
